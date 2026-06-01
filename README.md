@@ -1,4 +1,4 @@
-**`Desenvolvedora Front end`**
+**`Desenvolvedor Front end`**
 
 Me chamo Pedro lucas, tenho 18 anos e sou natural do Ceará. Concluí o ensino médio, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unigrande. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu portifolio
 
