@@ -12,8 +12,6 @@ Me chamo Pedro lucas, tenho 18 anos e sou natural do Ceará. Concluí o ensino m
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/PedroLucas207?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    
-    </a>
 </p>
 
 ---
